@@ -6,8 +6,7 @@
 http://146.190.166.221/madstream/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
 http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://favpng.com/png_view/star-india-star-utsav-movies-star-movies-star-gold-png/yCu54gB1" group-title="Hindi;Entertainment",Star Utsav
-http://180.178.188.152:8000/play/a05m
+
 
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
@@ -29,16 +28,17 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=473
 #EXTINF:0 tvg-id="481" tvg-name="Epic" group-title="Hindi;Entertainment" tvg-chno="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Epic
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481
-#EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment" tvg-chno="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
+
 #EXTINF:0 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Hindi;Entertainment" tvg-chno="882" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo TV
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961
 #EXTINF:0 tvg-id="2078" tvg-name="Shemaroo Umang" group-title="Hindi;Entertainment" tvg-chno="947" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo Umang
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078
 #EXTINF:0 tvg-id="1393" tvg-name="Sony Wah" group-title="Hindi;Entertainment" tvg-chno="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Wah
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",Star Bharat 5.1
-http://180.178.188.152:8000/play/a010
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://favpng.com/png_view/star-india-star-utsav-movies-star-movies-star-gold-png/yCu54gB1" group-title="Hindi;Entertainment",Star Utsav
+http://180.178.188.152:8000/play/a05m
+
 
 
 #EXTINF:0 tvg-id="476" tvg-name="Sony Max HD" group-title="Hindi;Movies" tvg-chno="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max HD
@@ -272,7 +272,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 http://212.224.84.217:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="English;Movies",Star Movies Hd
 http://212.224.84.217:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
-
+#EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment" tvg-chno="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
 
 
 
@@ -569,3 +570,5 @@ http://starshare.live:8080/live/203837773/0293938883/24580.m3u8
 http://starshare.live:8080/live/203837773/0293938883/24581.m3u8
 #EXTINF:-1,UK: Sony Max FHD
 http://starshare.live:8080/live/203837773/0293938883/24582.m3u8
+#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",Star Bharat 5.1
+http://180.178.188.152:8000/play/a010
