@@ -2,78 +2,77 @@
 
 #EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="ts8" 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Hindi;Entertainment",STAR Plus HD
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Hindi;Entertainment",STAR Plus HD
 http://146.190.166.221/madstream/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ts244"  2"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
+#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
 http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://favpng.com/png_view/star-india-star-utsav-movies-star-movies-star-gold-png/yCu54gB1" group-title="Hindi;Entertainment",Star Utsav
+http://180.178.188.152:8000/play/a05m
 
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-id="291" tvg-name="SET HD" group-title="Hindi;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SET HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
-#EXTINF:0 tvg-id="1351" tvg-name="Zee TV" group-title="Hindi;Entertainment" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1351
+#EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Hindi;Entertainment" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
 #EXTINF:0 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment" tvg-chno="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
 #EXTINF:0 tvg-id="154" tvg-name="Sony SAB" group-title="Hindi;Entertainment" tvg-chno="45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154
 #EXTINF:0 tvg-id="472" tvg-name="And TV HD" group-title="Hindi;Entertainment" tvg-chno="46" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
-#EXTINF:0 tvg-id="474" tvg-name="Sony Pal" group-title="Hindi;Entertainment"  9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Pal
+#EXTINF:0 tvg-id="474" tvg-name="Sony Pal" group-title="Hindi;Entertainment" tvg-chno="49" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Pal
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474
-#EXTINF:0 tvg-id="279" tvg-name="Rishtey" group-title="Hindi;Entertainment"  47" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Rishtey
+#EXTINF:0 tvg-id="279" tvg-name="Rishtey" group-title="Hindi;Entertainment" tvg-chno="47" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Rishtey
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279
-#EXTINF:0 tvg-id="473" tvg-name="Zee Anmol" group-title="Hindi;Entertainment"  48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+#EXTINF:0 tvg-id="473" tvg-name="Zee Anmol" group-title="Hindi;Entertainment" tvg-chno="48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=473
-#EXTINF:0 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Hindi;Entertainment"  882" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo TV
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961
-#EXTINF:0 tvg-id="2078" tvg-name="Shemaroo Umang" group-title="Hindi;Entertainment"  947" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo Umang
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078
-
-#EXTINF:0 tvg-id="481" tvg-name="Epic" group-title="Hindi;Entertainment"  61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Epic
+#EXTINF:0 tvg-id="481" tvg-name="Epic" group-title="Hindi;Entertainment" tvg-chno="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Epic
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481
-#EXTINF:0 tvg-id="1393" tvg-name="Sony Wah" group-title="Hindi;Entertainment"  775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Wah
+#EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment" tvg-chno="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
+#EXTINF:0 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Hindi;Entertainment" tvg-chno="882" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1961
+#EXTINF:0 tvg-id="2078" tvg-name="Shemaroo Umang" group-title="Hindi;Entertainment" tvg-chno="947" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Shemaroo Umang
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2078
+#EXTINF:0 tvg-id="1393" tvg-name="Sony Wah" group-title="Hindi;Entertainment" tvg-chno="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Wah
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1393
-#EXTINF:-1 tvg-id="" tvg-logo="https://favpng.com/png_view/star-india-star-utsav-movies-star-movies-star-gold-png/yCu54gB1" group-title="Hindi;Entertainment",Star Utsav
-http://180.178.188.152:8000/play/a05m
+#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",Star Bharat 5.1
+http://180.178.188.152:8000/play/a010
 
 
-#EXTINF:0 tvg-id="476" tvg-name="Sony Max HD" group-title="Hindi;Movies"  5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max HD
+#EXTINF:0 tvg-id="476" tvg-name="Sony Max HD" group-title="Hindi;Movies" tvg-chno="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Max HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
-#EXTINF:0 tvg-id="165" tvg-name="Zee Cinema HD" group-title="Hindi;Movies"  6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#EXTINF:0 tvg-id="165" tvg-name="Zee Cinema HD" group-title="Hindi;Movies" tvg-chno="6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
-#EXTINF:0 tvg-id="482" tvg-name="Colors Cineplex" group-title="Hindi;Movies"  72" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex
+#EXTINF:0 tvg-id="482" tvg-name="Colors Cineplex" group-title="Hindi;Movies" tvg-chno="72" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
-#EXTINF:0 tvg-id="185" tvg-name="And Pictures HD" group-title="Hindi;Movies"  76" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+#EXTINF:0 tvg-id="185" tvg-name="And Pictures HD" group-title="Hindi;Movies" tvg-chno="76" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
-
-#EXTINF:0 tvg-id="483" tvg-name="Sony MAX2" group-title="Hindi;Movies"  75" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony MAX2
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483
-#EXTINF:0 tvg-id="487" tvg-name="Zee Bollywood" group-title="Hindi;Movies"  80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=487
-#EXTINF:0 tvg-id="488" tvg-name="Zee Action" group-title="Hindi;Movies"  83" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=488
-#EXTINF:0 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="Hindi;Movies"  85" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=415
-
-#EXTINF:0 tvg-id="182" tvg-name="B4U Movies" group-title="Hindi;Movies"  78" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
+#EXTINF:0 tvg-id="182" tvg-name="B4U Movies" group-title="Hindi;Movies" tvg-chno="78" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=182
-#EXTINF:0 tvg-id="1295" tvg-name="B4U Kadak" group-title="Hindi;Movies"  761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1295&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",B4U Kadak
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1295
-#EXTINF:0 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="Hindi;Movies"  801" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Superhit
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450
-#EXTINF:0 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="Hindi;Movies"  814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
-#EXTINF:0 tvg-id="1839" tvg-name="And Pictures" group-title="Hindi;Movies"  839" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1839
-#EXTINF:0 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Hindi;Movies"  835" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Bollywood
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763
-
-#EXTINF:0 tvg-id="485" tvg-name="Enterr 10" group-title="Hindi;Entertainment"  82" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
+#EXTINF:0 tvg-id="487" tvg-name="Zee Bollywood" group-title="Hindi;Movies" tvg-chno="80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=487
+#EXTINF:0 tvg-id="485" tvg-name="Enterr 10" group-title="Hindi;Entertainment" tvg-chno="82" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=485
-
-#EXTINF:0 tvg-id="1266" tvg-name="Bflix Movies" group-title="Hindi;Movies"  737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1266&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bflix Movies
+#EXTINF:0 tvg-id="488" tvg-name="Zee Action" group-title="Hindi;Movies" tvg-chno="83" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=488
+#EXTINF:0 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="Hindi;Movies" tvg-chno="85" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=415
+#EXTINF:0 tvg-id="483" tvg-name="Sony MAX2" group-title="Hindi;Movies" tvg-chno="75" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony MAX2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483
+#EXTINF:0 tvg-id="1266" tvg-name="Bflix Movies" group-title="Hindi;Movies" tvg-chno="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1266&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bflix Movies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1266
+#EXTINF:0 tvg-id="1295" tvg-name="B4U Kadak" group-title="Hindi;Movies" tvg-chno="761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1295&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",B4U Kadak
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1295
+#EXTINF:0 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="Hindi;Movies" tvg-chno="801" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Superhit
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1450
+#EXTINF:0 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="Hindi;Movies" tvg-chno="814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
+#EXTINF:0 tvg-id="1839" tvg-name="And Pictures" group-title="Hindi;Movies" tvg-chno="839" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1839
+#EXTINF:0 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Hindi;Movies" tvg-chno="835" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors Cineplex Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1763
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png" group-title="Hindi;Movies",STAR GOLD HD
 http://146.190.166.221/madstream/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Hindi;Movies,Star Gold 2
@@ -91,80 +90,80 @@ http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
 
 
 
-#EXTINF:0 tvg-id="1906" tvg-name="Times Now Navbharat" group-title="Hindi;News"  9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1906&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Times Now Navbharat
+#EXTINF:0 tvg-id="1906" tvg-name="Times Now Navbharat" group-title="Hindi;News" tvg-chno="9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1906&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Times Now Navbharat
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1906
 
-#EXTINF:0 tvg-id="173" tvg-name="Aaj Tak" group-title="Hindi;News"  11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaj Tak
+#EXTINF:0 tvg-id="173" tvg-name="Aaj Tak" group-title="Hindi;News" tvg-chno="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Aaj Tak
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=173
 
-#EXTINF:0 tvg-id="177" tvg-name="ABP News India" group-title="Hindi;News"  13" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=177&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP News India
+#EXTINF:0 tvg-id="177" tvg-name="ABP News India" group-title="Hindi;News" tvg-chno="13" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=177&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP News India
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=177
 
 
-#EXTINF:0 tvg-id="231" tvg-name="News 18 India" group-title="Hindi;News"  86" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 18 India
+#EXTINF:0 tvg-id="231" tvg-name="News 18 India" group-title="Hindi;News" tvg-chno="86" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 18 India
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231
-#EXTINF:0 tvg-id="235" tvg-name="India TV" group-title="Hindi;News"  87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=235&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV
+#EXTINF:0 tvg-id="235" tvg-name="India TV" group-title="Hindi;News" tvg-chno="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=235&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India TV
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=235
-#EXTINF:0 tvg-id="258" tvg-name="NDTV India" group-title="Hindi;News"  88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=258&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NDTV India
+#EXTINF:0 tvg-id="258" tvg-name="NDTV India" group-title="Hindi;News" tvg-chno="88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=258&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NDTV India
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=258
 
 
-#EXTINF:0 tvg-id="504" tvg-name="Zee News" group-title="Hindi;News"  89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+#EXTINF:0 tvg-id="504" tvg-name="Zee News" group-title="Hindi;News" tvg-chno="89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=504
-#EXTINF:0 tvg-id="876" tvg-name="Times Now World" group-title="English;News"  90" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=876&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Times Now World
+#EXTINF:0 tvg-id="876" tvg-name="Times Now World" group-title="English;News" tvg-chno="90" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=876&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Times Now World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=876
-#EXTINF:0 tvg-id="255" tvg-name="NDTV 24x7" group-title="English;News"  91" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=255&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NDTV 24x7
+#EXTINF:0 tvg-id="255" tvg-name="NDTV 24x7" group-title="English;News" tvg-chno="91" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=255&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",NDTV 24x7
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=255
 
-#EXTINF:0 tvg-id="499" tvg-name="News Nation" group-title="Hindi;News"  291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=499&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News Nation
+#EXTINF:0 tvg-id="499" tvg-name="News Nation" group-title="Hindi;News" tvg-chno="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=499&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News Nation
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=499
 
-#EXTINF:0 tvg-id="501" tvg-name="News 24" group-title="Hindi;News"  99" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=501&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 24
+#EXTINF:0 tvg-id="501" tvg-name="News 24" group-title="Hindi;News" tvg-chno="99" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=501&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News 24
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=501
 
-#EXTINF:0 tvg-id="498" tvg-name="India news" group-title="Hindi;News"  293" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India news
+#EXTINF:0 tvg-id="498" tvg-name="India news" group-title="Hindi;News" tvg-chno="293" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India news
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498
 
-#EXTINF:0 tvg-id="531" tvg-name="News18 RAJASTHAN" group-title="Hindi;News"  308" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=531&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 RAJASTHAN
+#EXTINF:0 tvg-id="531" tvg-name="News18 RAJASTHAN" group-title="Hindi;News" tvg-chno="308" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=531&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",News18 RAJASTHAN
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=531
 
-#EXTINF:0 tvg-id="659" tvg-name="Zee Rajasthan" group-title="Hindi;News"  357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png",Zee Rajasthan
+#EXTINF:0 tvg-id="659" tvg-name="Zee Rajasthan" group-title="Hindi;News" tvg-chno="357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png",Zee Rajasthan
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=659
 
-#EXTINF:0 tvg-id="203" tvg-name="DD News" group-title="Hindi;News"  362" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
+#EXTINF:0 tvg-id="203" tvg-name="DD News" group-title="Hindi;News" tvg-chno="362" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=203
 
 
-#EXTINF:0 tvg-id="513" tvg-name="India News Rajasthan" group-title="Hindi;News"  443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=513&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News Rajasthan
+#EXTINF:0 tvg-id="513" tvg-name="India News Rajasthan" group-title="Hindi;News" tvg-chno="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=513&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",India News Rajasthan
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=513
 
-#EXTINF:0 tvg-id="652" tvg-name="Zee Hindustan" group-title="Hindi;News"  447" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
+#EXTINF:0 tvg-id="652" tvg-name="Zee Hindustan" group-title="Hindi;News" tvg-chno="447" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=652
 
-#EXTINF:0 tvg-id="793" tvg-name="Samay Rajasthan" group-title="Hindi;News"  484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=793&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Samay Rajasthan
+#EXTINF:0 tvg-id="793" tvg-name="Samay Rajasthan" group-title="Hindi;News" tvg-chno="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=793&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Samay Rajasthan
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=793
 
 
-#EXTINF:0 tvg-id="1777" tvg-name="Bharat News TV" group-title="Hindi;News"  663" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1777&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat News TV
+#EXTINF:0 tvg-id="1777" tvg-name="Bharat News TV" group-title="Hindi;News" tvg-chno="663" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1777&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Bharat News TV
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1777
 
-#EXTINF:0 tvg-id="1251" tvg-name="TV9 Bharatvarsh" group-title="Hindi;News"  726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1251&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV9 Bharatvarsh
+#EXTINF:0 tvg-id="1251" tvg-name="TV9 Bharatvarsh" group-title="Hindi;News" tvg-chno="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1251&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",TV9 Bharatvarsh
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1251
 
-#EXTINF:0 tvg-id="1205" tvg-name="ABP Ganga" group-title="Hindi;News"  696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1205&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP Ganga
+#EXTINF:0 tvg-id="1205" tvg-name="ABP Ganga" group-title="Hindi;News" tvg-chno="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1205&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ABP Ganga
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1205
 
-#EXTINF:0 tvg-id="1451" tvg-name="9 Bharat Samachar" group-title="Hindi;News"  802" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1451&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",9 Bharat Samachar
+#EXTINF:0 tvg-id="1451" tvg-name="9 Bharat Samachar" group-title="Hindi;News" tvg-chno="802" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1451&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",9 Bharat Samachar
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1451
 
-#EXTINF:0 tvg-id="1431" tvg-name="BBC News Hindi" group-title="Hindi;News"  795" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1431&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BBC News Hindi
+#EXTINF:0 tvg-id="1431" tvg-name="BBC News Hindi" group-title="Hindi;News" tvg-chno="795" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1431&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BBC News Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1431
 
-#EXTINF:0 tvg-id="1287" tvg-name="ANB News" group-title="Hindi;News"  754" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1287&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ANB News
+#EXTINF:0 tvg-id="1287" tvg-name="ANB News" group-title="Hindi;News" tvg-chno="754" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1287&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",ANB News
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1287
 
 
-#EXTINF:0 tvg-id="1895" tvg-name="Today 24 News" group-title="Hindi;News"  863" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1895&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Today 24 News
+#EXTINF:0 tvg-id="1895" tvg-name="Today 24 News" group-title="Hindi;News" tvg-chno="863" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1895&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Today 24 News
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1895
 
 
@@ -176,16 +175,16 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="545" tvg-name="Nick Hindi" group-title="Hindi;Kids"  21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#EXTINF:0 tvg-id="545" tvg-name="Nick Hindi" group-title="Hindi;Kids" tvg-chno="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
 
-#EXTINF:0 tvg-id="1226" tvg-name="Nick HD+" group-title="English;Kids"  709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+#EXTINF:0 tvg-id="1226" tvg-name="Nick HD+" group-title="English;Kids" tvg-chno="709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 
-#EXTINF:0 tvg-id="547" tvg-name="Nickelodeon" group-title="English;Kids"  131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
+#EXTINF:0 tvg-id="547" tvg-name="Nickelodeon" group-title="English;Kids" tvg-chno="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=547
 
-#EXTINF:0 tvg-id="1079" tvg-name="CN HD+ English" group-title="English;Kids"  134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+#EXTINF:0 tvg-id="1079" tvg-name="CN HD+ English" group-title="English;Kids" tvg-chno="134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 
 
@@ -194,14 +193,14 @@ http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=pinguimtv
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Kids",Disney Channel
 http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/tracks-v1a1/mono.m3u8?token=
 
-#EXTINF:0 tvg-id="559" tvg-name="Pogo Hindi" group-title="Hindi;Kids"  23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#EXTINF:0 tvg-id="559" tvg-name="Pogo Hindi" group-title="Hindi;Kids" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=559
 
-#EXTINF:0 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Hindi;Kids"  26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#EXTINF:0 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Hindi;Kids" tvg-chno="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=816
 
 
-#EXTINF:0 tvg-id="815" tvg-name="Sonic Hindi" group-title="Hindi;Kids"  129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+#EXTINF:0 tvg-id="815" tvg-name="Sonic Hindi" group-title="Hindi;Kids" tvg-chno="129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 
 #EXTINF:-1 tvg-id="ts587" tvg-logo="https://w7.pngwing.com/pngs/907/829/png-transparent-hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-watching-tv-television-text-logo.png" group-title="Hindi;Kids",Hungama TV
@@ -209,13 +208,13 @@ http://212.224.84.217:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=pinguimtv
 
 
 
-#EXTINF:0 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Hindi;Infotainment"  141" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet Hindi
+#EXTINF:0 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Hindi;Infotainment" tvg-chno="141" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
-#EXTINF:0 tvg-id="575" tvg-name="Discovery Channel Hindi" group-title="Hindi;Infotainment"  142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Channel Hindi
+#EXTINF:0 tvg-id="575" tvg-name="Discovery Channel Hindi" group-title="Hindi;Infotainment" tvg-chno="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Channel Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
-#EXTINF:0 tvg-id="578" tvg-name="History TV18 HD Hindi" group-title="Hindi;Infotainment"  143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",History TV18 HD Hindi
+#EXTINF:0 tvg-id="578" tvg-name="History TV18 HD Hindi" group-title="Hindi;Infotainment" tvg-chno="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
-#EXTINF:0 tvg-id="568" tvg-name="Discovery Science" group-title="English;Infotainment"  144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Science
+#EXTINF:0 tvg-id="568" tvg-name="Discovery Science" group-title="English;Infotainment" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery Science
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568
 
 #EXTINF:-1 tvg-id="0-9-250" group-title="Hindi;Infotainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-250/channel_web/1170x658withlogo436360213.png",Nat Geo Wild HD
@@ -234,21 +233,19 @@ https://pknraj.buzz/api/discovery/HGTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="English;Infotainment", Discovery Food Network
 https://pknraj.buzz/api/discovery/Food%20Network.m3u8
 
-#EXTINF:0 tvg-id="821" tvg-name="Sony BBC Earth HD" group-title="Hindi;Infotainment"  29" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+#EXTINF:0 tvg-id="821" tvg-name="Sony BBC Earth HD" group-title="Hindi;Infotainment" tvg-chno="29" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
-#EXTINF:0 tvg-id="146" tvg-name="History TV18 HD" group-title="English;Infotainment"  30" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=146&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",History TV18 HD
+#EXTINF:0 tvg-id="146" tvg-name="History TV18 HD" group-title="English;Infotainment" tvg-chno="30" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=146&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",History TV18 HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=146
 
-#EXTINF:0 tvg-id="567" tvg-name="Animal Planet English" group-title="English;Infotainment"  150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=567&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet English
+#EXTINF:0 tvg-id="567" tvg-name="Animal Planet English" group-title="English;Infotainment" tvg-chno="150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=567&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=567
 
 
-#EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment"  552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
-#EXTINF:0 tvg-id="242" tvg-name="Discovery" group-title="English;Infotainment"  155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=242&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery
+#EXTINF:0 tvg-id="242" tvg-name="Discovery" group-title="English;Infotainment" tvg-chno="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=242&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Discovery
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=242
 
-#EXTINF:0 tvg-id="852" tvg-name="Sony BBC Earth HD English" group-title="English;Infotainment"  385" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
+#EXTINF:0 tvg-id="852" tvg-name="Sony BBC Earth HD English" group-title="English;Infotainment" tvg-chno="385" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=852
 
 #EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="UTV Bindass" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest/scale-to-width-down/300?cb=20190720101806" group-title="Hindi;Music",UTV Bindass
@@ -259,15 +256,15 @@ http://180.178.188.152:8000/play/a063
 http://212.224.84.217:2200/AFR-EX/Star_Life_HD-dstv/index.m3u8?token=pinguimtv
 
 
-#EXTINF:0 tvg-id="1158" tvg-name="Colors Infinity HD" group-title="English;Entertainment"  62" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+#EXTINF:0 tvg-id="1158" tvg-name="Colors Infinity HD" group-title="English;Entertainment" tvg-chno="62" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
 
-#EXTINF:0 tvg-id="1157" tvg-name="Comedy Central HD" group-title="English;Entertainment"  55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+#EXTINF:0 tvg-id="1157" tvg-name="Comedy Central HD" group-title="English;Entertainment" tvg-chno="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 
 
-#EXTINF:0 tvg-id="762" tvg-name="Sony Pix HD" group-title="English;Movies"  73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+#EXTINF:0 tvg-id="762" tvg-name="Sony Pix HD" group-title="English;Movies" tvg-chno="73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 
 
@@ -279,13 +276,13 @@ http://212.224.84.217:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?
 
 
 
-#EXTINF:0 tvg-id="892" tvg-name="Sony Ten 3 HD" group-title="Hindi;Sports"  104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
+#EXTINF:0 tvg-id="892" tvg-name="Sony Ten 3 HD" group-title="Hindi;Sports" tvg-chno="104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
-#EXTINF:0 tvg-id="891" tvg-name="Sony Ten 2 HD" group-title="English;Sports"  14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2 HD
+#EXTINF:0 tvg-id="891" tvg-name="Sony Ten 2 HD" group-title="English;Sports" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2 HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
-#EXTINF:0 tvg-id="162" tvg-name="Sony Ten 1 HD" group-title="English;Sports"  10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
+#EXTINF:0 tvg-id="162" tvg-name="Sony Ten 1 HD" group-title="English;Sports" tvg-chno="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
-#EXTINF:0 tvg-id="155" tvg-name="Sony Ten 5 HD" group-title="English;Sports"  7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
+#EXTINF:0 tvg-id="155" tvg-name="Sony Ten 5 HD" group-title="English;Sports" tvg-chno="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="English;Sports",Star Sports 1 HD
@@ -300,7 +297,7 @@ http://180.178.188.152:8000/play/a019
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Hindi;Sports",Star Sports 1 Hindi HD
 http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 
-#EXTINF:0 tvg-id="1918" tvg-name="Jio Cricket English HD" group-title="English;Sports"  1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Cricket English HD
+#EXTINF:0 tvg-id="1918" tvg-name="Jio Cricket English HD" group-title="English;Sports" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Cricket English HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918
 
 
@@ -574,6 +571,3 @@ http://starshare.live:8080/live/203837773/0293938883/24581.m3u8
 http://starshare.live:8080/live/203837773/0293938883/24582.m3u8
 #EXTINF:-1,UK: Star Plus HD
 http://starshare.live:8080/live/203837773/0293938883/24583.m3u8
-
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",Star Bharat 5.1
-http://180.178.188.152:8000/play/a010
