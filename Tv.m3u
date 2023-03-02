@@ -13,11 +13,11 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
 #EXTINF:0 tvg-id="1351" tvg-name="Zee TV" group-title="Hindi;Entertainment" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1351
-#EXTINF:0 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment"  6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
+#EXTINF:0 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment" tvg-chno="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
-#EXTINF:0 tvg-id="154" tvg-name="Sony SAB" group-title="Hindi;Entertainment"  7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB
+#EXTINF:0 tvg-id="154" tvg-name="Sony SAB" group-title="Hindi;Entertainment" tvg-chno="45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=154
-#EXTINF:0 tvg-id="472" tvg-name="And TV HD" group-title="Hindi;Entertainment"  8" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+#EXTINF:0 tvg-id="472" tvg-name="And TV HD" group-title="Hindi;Entertainment" tvg-chno="46" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
 #EXTINF:0 tvg-id="474" tvg-name="Sony Pal" group-title="Hindi;Entertainment"  9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony Pal
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=474
