@@ -2,18 +2,18 @@
 
 #EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="21" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Hindi;Entertainment",STAR Plus HD
+#EXTINF:-1 tvg-id="21" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Hindi;Entertainment",STAR Plus HD
 http://146.190.166.221/madstream/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
+#EXTINF:-1 tvg-id="1"tvg-chno="1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
 http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://favpng.com/png_view/star-india-star-utsav-movies-star-movies-star-gold-png/yCu54gB1" group-title="Hindi;Entertainment",Star Utsav
 http://180.178.188.152:8000/play/a05m
 
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
-#EXTINF:0 tvg-id="291" tvg-name="SET HD" group-title="Hindi;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SET HD
+#EXTINF:0 tvg-id="291" tvg-name="SET HD" group-title="Hindi;Entertainment" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",SET HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
-#EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Hindi;Entertainment" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+#EXTINF:0 tvg-id="167" tvg-name="Zee TV HD" group-title="Hindi;Entertainment" tvg-chno="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
 #EXTINF:0 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi;Entertainment" tvg-chno="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Sony SAB HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
