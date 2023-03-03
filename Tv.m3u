@@ -81,11 +81,9 @@ http://146.190.166.221/madstream/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Hindi;Movies,Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN: STAR GOLD SELECT HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-select-hd-logo-300x300.jpg" group-title="INDIA HINDI MOVIES",IN: STAR GOLD SELECT HD
-http://starshare.live:8080/live/37282146482/37282146482/210.ts
-#EXTINF:-1 tvg-id="utvhd.in" tvg-name="IN | UTV MOVIE HD" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi;Movies",IN | UTV MOVIE HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV HD" tvg-logo="https://static.epg.best/in/UTV.in.png" group-title="Hindi;Movies", UTV Action 
-http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
+http://starshare.live:8080/live/37282146482/37282146482/210.tst
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: UTV MOVIES" tvg-logo="" group-title="INDIAN SD",IN: UTV MOVIES
+http://starshare.live:8080/live/37282146482/37282146482/972.ts
 
 
 
@@ -174,38 +172,11 @@ https://ottrb3.republicworld.com/httppush/ottrb_republic_hindi/chunklist_3.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
-
-#EXTINF:0 tvg-id="545" tvg-name="Nick Hindi" group-title="Hindi;Kids" tvg-chno="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
-
-#EXTINF:0 tvg-id="1226" tvg-name="Nick HD+" group-title="English;Kids" tvg-chno="709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
-
 #EXTINF:0 tvg-id="547" tvg-name="Nickelodeon" group-title="English;Kids" tvg-chno="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=547
 
 #EXTINF:0 tvg-id="1079" tvg-name="CN HD+ English" group-title="English;Kids" tvg-chno="134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
-
-
-#EXTINF:-1 tvg-id="ts114" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Kids",Disney S2
-http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=pinguimtv
-#EXTINF:-1 tvg-id="ts114" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Kids",Disney Channel
-http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:0 tvg-id="559" tvg-name="Pogo Hindi" group-title="Hindi;Kids" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=559
-
-#EXTINF:0 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Hindi;Kids" tvg-chno="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=816
-
-
-#EXTINF:0 tvg-id="815" tvg-name="Sonic Hindi" group-title="Hindi;Kids" tvg-chno="129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
-
-#EXTINF:-1 tvg-id="ts587" tvg-logo="https://w7.pngwing.com/pngs/907/829/png-transparent-hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-watching-tv-television-text-logo.png" group-title="Hindi;Kids",Hungama TV
-http://212.224.84.217:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=pinguimtv
-
 
 
 #EXTINF:0 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Hindi;Infotainment" tvg-chno="141" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Animal Planet Hindi
@@ -280,11 +251,11 @@ http://starshare.live:8080/live/37282146482/37282146482/201.ts
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="INDIA ENGLISH MOVIES",IN: & FLIX HD
 http://starshare.live:8080/live/37282146482/37282146482/253.ts
 
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: UTV MOVIES" tvg-logo="" group-title="INDIAN SD",IN: UTV MOVIES
-http://starshare.live:8080/live/37282146482/37282146482/972.ts
-
 #EXTINF:-1 tvg-id="utvhd.in" tvg-name="IN: UTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest?cb=20181021120741" group-title="INDIA HINDI MOVIES",IN: UTV HD
 http://starshare.live:8080/live/37282146482/37282146482/1382.ts
+
+#EXTINF:-1 tvg-id="utvhd.in" tvg-name="IN | UTV MOVIE HD" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi;Movies",IN | UTV MOVIE HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=tes
 
 #EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment" tvg-chno="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
@@ -300,18 +271,11 @@ http://starshare.live:8080/live/203837773/0293938883/217.m3u8
 http://starshare.live:8080/live/203837773/0293938883/253.m3u8
 #EXTINF:-1,HBO 2 HD
 http://starshare.live:8080/live/203837773/0293938883/185.m3u8
-#EXTINF:-1,UTV HD
-http://starshare.live:8080/live/203837773/0293938883/1382.m3u8
 #EXTINF:-1,MOVIES ACTIVE HD D2H
 http://starshare.live:8080/live/203837773/0293938883/7336.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://starshare.live:8080/live/203837773/0293938883/979.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://starshare.live:8080/live/203837773/0293938883/978.m3u8
 
-
-#EXTINF:-1,HBOMAX-MOVIES 1 HD
-http://starshare.live:8080/live/203837773/0293938883/135824.m3u8
 #EXTINF:-1,HBOMAX-MOVIES 2 HD
 http://starshare.live:8080/live/203837773/0293938883/135825.m3u8
 #EXTINF:-1,HBOMAX-MOVIES 3 HD
