@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Hindi;Entertainment",STAR Plus HD
 http://146.190.166.221/madstream/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",STAR BHARAT  HD
-http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN: STAR BHARAT HD" tvg-logo="data:image/png;base64,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" group-title="INDIA ENTERTAINMENT",IN: STAR BHARAT HD
+http://starshare.live:8080/live/37282146482/37282146482/199.ts
 
 
 #EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Colors HD
@@ -80,17 +80,12 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=485
 http://146.190.166.221/madstream/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Hindi;Movies,Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Hindi;Movies",Star Gold Select Hd
-http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN: STAR GOLD SELECT HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-select-hd-logo-300x300.jpg" group-title="INDIA HINDI MOVIES",IN: STAR GOLD SELECT HD
+http://starshare.live:8080/live/37282146482/37282146482/210.ts
 #EXTINF:-1 tvg-id="utvhd.in" tvg-name="IN | UTV MOVIE HD" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi;Movies",IN | UTV MOVIE HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="IN: UTV HD" tvg-logo="https://static.epg.best/in/UTV.in.png" group-title="Hindi;Movies", UTV Action 
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV HD" tvg-logo="https://static.epg.best/in/UTV.in.png" group-title="Hindi;Movies", UTV Action 
 http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="Hindi;Movies", GOLDMINES
-http://xtv.ooo:8080/83194829/47294883/112972
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="Hindi;Movies", GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/83194829/47294883/112973
 
 
 
@@ -263,201 +258,54 @@ http://212.224.84.217:2200/AFR-EX/Star_Life_HD-dstv/index.m3u8?token=pinguimtv
 
 #EXTINF:0 tvg-id="1158" tvg-name="Colors Infinity HD" group-title="English;Entertainment" tvg-chno="62" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
-
-
 #EXTINF:0 tvg-id="1157" tvg-name="Comedy Central HD" group-title="English;Entertainment" tvg-chno="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="IN: STAR WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlkxvanDYSalD4pClZpT96RoulE3vWWkD4fe9amcIbkIwPof3Ca04ZuBdW8ULDynnnOrc&usqp=CAU" group-title="INDIA ENGLISH MOVIES",IN: STAR WORLD HD
+http://starshare.live:8080/live/37282146482/37282146482/978.ts
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="IN: STAR WORLD PREMIERE HD" tvg-logo="https://bestmediainfo.com/uploads/2013/09/Star-World-Premiere-HD-top.jpg" group-title="INDIA ENGLISH MOVIES",IN: STAR WORLD PREMIERE HD
+http://starshare.live:8080/live/37282146482/37282146482/217.ts
 
 #EXTINF:0 tvg-id="762" tvg-name="Sony Pix HD" group-title="English;Movies" tvg-chno="73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIES HD
+http://starshare.live:8080/live/37282146482/37282146482/979.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN: STAR MOVIES SELECT HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIES SELECT HD
+http://starshare.live:8080/live/37282146482/37282146482/218.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="English;Movies",Star Movies Select
-http://212.224.84.217:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-name="STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="English;Movies",Star Movies Hd
-http://212.224.84.217:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: & PRIVE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/%26priv%C3%A9_hd.jpg/revision/latest/scale-to-width-down/340?cb=20200906062328" group-title="INDIA ENGLISH MOVIES",IN: & PRIVE HD
+http://starshare.live:8080/live/37282146482/37282146482/201.ts
+
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="INDIA ENGLISH MOVIES",IN: & FLIX HD
+http://starshare.live:8080/live/37282146482/37282146482/253.ts
+
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: UTV MOVIES" tvg-logo="" group-title="INDIAN SD",IN: UTV MOVIES
+http://starshare.live:8080/live/37282146482/37282146482/972.ts
+
+#EXTINF:-1 tvg-id="utvhd.in" tvg-name="IN: UTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest?cb=20181021120741" group-title="INDIA HINDI MOVIES",IN: UTV HD
+http://starshare.live:8080/live/37282146482/37282146482/1382.ts
+
 #EXTINF:0 tvg-id="2327" tvg-name="Lionsgate Play" group-title="Hindi;Entertainment" tvg-chno="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Lionsgate Play
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=2327
-
-
-
-#EXTINF:0 tvg-id="892" tvg-name="Sony Ten 3 HD" group-title="Hindi;Sports" tvg-chno="104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
-#EXTINF:0 tvg-id="891" tvg-name="Sony Ten 2 HD" group-title="English;Sports" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
-#EXTINF:0 tvg-id="162" tvg-name="Sony Ten 1 HD" group-title="English;Sports" tvg-chno="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
-#EXTINF:0 tvg-id="155" tvg-name="Sony Ten 5 HD" group-title="English;Sports" tvg-chno="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
-
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Hindi;Sports",Star Sports 1 HD
-http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Hindi;Sports",Star Sports 2 HD
-http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Hindi;Sports",Star Sports Select 1
-http://180.178.188.152:8000/play/a018
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Hindi;Sports",Star Sports Select 2
-http://180.178.188.152:8000/play/a019
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Hindi;Sports",Star Sports 1 Hindi HD
-http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:0 tvg-id="1918" tvg-name="Jio Cricket English HD" group-title="Hindi;Sports" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Cricket English HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918
-
-
-
-
-
-#EXTINF:-1,Star Sport-1  (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9397.m3u8
-#EXTINF:-1,Star Sport-2  (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9398.m3u8
-#EXTINF:-1,Star Sport 1 HINDI (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9399.m3u8
-#EXTINF:-1,Star Sports Select 1 (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9400.m3u8
-#EXTINF:-1,Star Sports Select 2 (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9401.m3u8
-#EXTINF:-1,Sony Ten 1 (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9402.m3u8
-#EXTINF:-1,Sony Ten 2 (4K)
-http://starshare.live:8080/live/203837773/0293938883/9403.m3u8
-
-#EXTINF:-1,Sony Ten 3 (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9404.m3u8
-
-
-#EXTINF:-1,DISNEY INTERNATIONAL (4K)
-http://starshare.live:8080/live/203837773/0293938883/20925.m3u8
-#EXTINF:-1,Super Hungama
-http://starshare.live:8080/live/203837773/0293938883/85595.m3u8
-
-
-#EXTINF:-1,&PRIVE (4K).
-http://starshare.live:8080/live/203837773/0293938883/98840.m3u8
-#EXTINF:-1,&FLIX (4K).
-http://starshare.live:8080/live/203837773/0293938883/98841.m3u8
-#EXTINF:-1,STAR MOVIE (4K).
-http://starshare.live:8080/live/203837773/0293938883/98842.m3u8
-#EXTINF:-1,STAR MOVIE SELECT (4K).
-http://starshare.live:8080/live/203837773/0293938883/98843.m3u8
-#EXTINF:-1,STAR WORLD (4K).
-http://starshare.live:8080/live/203837773/0293938883/98844.m3u8
-#EXTINF:-1,STAR WORLD PREMIUM (4K).
-http://starshare.live:8080/live/203837773/0293938883/98845.m3u8
-#EXTINF:-1,SONY PIX (4K).
-http://starshare.live:8080/live/203837773/0293938883/98846.m3u8
-#EXTINF:-1,MN+ (4K).
-http://starshare.live:8080/live/203837773/0293938883/98847.m3u8
-#EXTINF:-1,ZEE CAFE (4K).
-http://starshare.live:8080/live/203837773/0293938883/98848.m3u8
-#EXTINF:-1,STAR PLUS (4K).
-http://starshare.live:8080/live/203837773/0293938883/98849.m3u8
-#EXTINF:-1,ZEETV (4K).
-http://starshare.live:8080/live/203837773/0293938883/98850.m3u8
-#EXTINF:-1,COLORS (4K).
-http://starshare.live:8080/live/203837773/0293938883/98851.m3u8
-#EXTINF:-1,&TV (4K).
-http://starshare.live:8080/live/203837773/0293938883/98852.m3u8
-#EXTINF:-1,SONY SAB (4K).
-http://starshare.live:8080/live/203837773/0293938883/98853.m3u8
-#EXTINF:-1,SONY (4K).
-http://starshare.live:8080/live/203837773/0293938883/98854.m3u8
-#EXTINF:-1,STAR BHARAT (4K).
-http://starshare.live:8080/live/203837773/0293938883/98855.m3u8
-#EXTINF:-1,&PICTURE (4K).
-http://starshare.live:8080/live/203837773/0293938883/98856.m3u8
-#EXTINF:-1,SONY MAX (4K).
-http://starshare.live:8080/live/203837773/0293938883/98857.m3u8
-#EXTINF:-1,STAR GOLD (4K).
-http://starshare.live:8080/live/203837773/0293938883/98858.m3u8
-#EXTINF:-1,STAR GOLD SELECT (4K).
-http://starshare.live:8080/live/203837773/0293938883/98859.m3u8
-#EXTINF:-1,ZEE CINEMA (4K).
-http://starshare.live:8080/live/203837773/0293938883/98860.m3u8
-#EXTINF:-1,TEN 1 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98861.m3u8
-#EXTINF:-1,Sony BBC EARTH (4K).
-http://starshare.live:8080/live/203837773/0293938883/98871.m3u8
-#EXTINF:-1,DISCOVERY (4K).
-http://starshare.live:8080/live/203837773/0293938883/98872.m3u8
-#EXTINF:-1,ANIMAL PLANET (4K).
-http://starshare.live:8080/live/203837773/0293938883/98873.m3u8
-#EXTINF:-1,National GEO (4K).
-http://starshare.live:8080/live/203837773/0293938883/98874.m3u8
-#EXTINF:-1,NAT Geo Wild (4K).
-http://starshare.live:8080/live/203837773/0293938883/98875.m3u8
-#EXTINF:-1,FOX LIFE (4K).
-http://starshare.live:8080/live/203837773/0293938883/98876.m3u8
-#EXTINF:-1,HISTORY TV (4K).
-http://starshare.live:8080/live/203837773/0293938883/98877.m3u8
-
-#EXTINF:-1,COMEDY-CENTRAL (FHD)
-http://starshare.live:8080/live/203837773/0293938883/23429.m3u8
-
-#EXTINF:-1,Colors INFINITY (4K).
-http://starshare.live:8080/live/203837773/0293938883/98879.m3u8
-#EXTINF:-1,NICK (4K).
-http://starshare.live:8080/live/203837773/0293938883/98880.m3u8
-
-
-#EXTINF:-1,Colors Cineplex (4K).
-http://starshare.live:8080/live/203837773/0293938883/98908.m3u8
-
-#EXTINF:-1,AXN (4K).
-http://starshare.live:8080/live/203837773/0293938883/98915.m3u8
-#EXTINF:-1,TEN 2 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98862.m3u8
-#EXTINF:-1,TEN 3 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98863.m3u8
-#EXTINF:-1,STAR SPORTS 1 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98864.m3u8
-#EXTINF:-1,STAR SPORTS 2 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98865.m3u8
-#EXTINF:-1,STAR SPORTS 1 HINDI (4K).
-http://starshare.live:8080/live/203837773/0293938883/98866.m3u8
-#EXTINF:-1,STAR SPORTS SELECT 1 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98867.m3u8
-#EXTINF:-1,START SPORTS SELECT 2 (4K).
-http://starshare.live:8080/live/203837773/0293938883/98868.m3u8
-#EXTINF:-1,EUROSPORTS (4K).
-http://starshare.live:8080/live/203837773/0293938883/98869.m3u8
-#EXTINF:-1,SONY SIX (4K).
-http://starshare.live:8080/live/203837773/0293938883/98870.m3u8
-
-#EXTINF:-1,STAR SPORTS 1 HINDI (4K)
-http://starshare.live:8080/live/203837773/0293938883/124287.m3u8
 
 
 #EXTINF:-1,MNX HD
 http://starshare.live:8080/live/203837773/0293938883/191.m3u8
 #EXTINF:-1,& PRIVE HD
 http://starshare.live:8080/live/203837773/0293938883/201.m3u8
-
 #EXTINF:-1,STAR WORLD PREMIERE HD
 http://starshare.live:8080/live/203837773/0293938883/217.m3u8
-
 #EXTINF:-1,ZEECAFE HD
 http://starshare.live:8080/live/203837773/0293938883/196.m3u8
-
-#EXTINF:-1,& PRIVE (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9379.m3u8
-
-#EXTINF:-1,&Flix (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9382.m3u8
-
 #EXTINF:-1,& FLIX HD
 http://starshare.live:8080/live/203837773/0293938883/253.m3u8
 #EXTINF:-1,HBO 2 HD
 http://starshare.live:8080/live/203837773/0293938883/185.m3u8
-
 #EXTINF:-1,UTV HD
 http://starshare.live:8080/live/203837773/0293938883/1382.m3u8
 #EXTINF:-1,MOVIES ACTIVE HD D2H
 http://starshare.live:8080/live/203837773/0293938883/7336.m3u8
-
 #EXTINF:-1,STAR MOVIES HD
 http://starshare.live:8080/live/203837773/0293938883/979.m3u8
 #EXTINF:-1,STAR WORLD HD
@@ -465,7 +313,6 @@ http://starshare.live:8080/live/203837773/0293938883/978.m3u8
 
 #EXTINF:-1,BR: AXN HD
 http://starshare.live:8080/live/203837773/0293938883/20843.m3u8
-
 #EXTINF:-1,BR: HBO 2 HD
 http://starshare.live:8080/live/203837773/0293938883/20852.m3u8
 #EXTINF:-1,BR: HBO XTREME HD
@@ -496,85 +343,33 @@ http://starshare.live:8080/live/203837773/0293938883/135863.m3u8
 #EXTINF:-1,ENGLISH-HARRY POTTER MOVIES HD
 http://starshare.live:8080/live/203837773/0293938883/135865.m3u8
 
-#EXTINF:-1,STAR MOVIES (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9384.m3u8
-#EXTINF:-1,STAR WORLD (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9385.m3u8
-#EXTINF:-1,STAR WORLD PREM (FHD)
-http://starshare.live:8080/live/203837773/0293938883/9386.m3u8
 
 
-#EXTINF:-1,OSN Star Movies FHD
-http://starshare.live:8080/live/203837773/0293938883/134339.m3u8
 
-#EXTINF:-1,OSN Star World FHD
-http://starshare.live:8080/live/203837773/0293938883/134344.m3u8
+#EXTINF:0 tvg-id="162" tvg-name="Sony Ten 1 HD" group-title="English;Sports" tvg-chno="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
+#EXTINF:0 tvg-id="891" tvg-name="Sony Ten 2 HD" group-title="English;Sports" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
+#EXTINF:0 tvg-id="892" tvg-name="Sony Ten 3 HD" group-title="Hindi;Sports" tvg-chno="104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
+#EXTINF:0 tvg-id="155" tvg-name="Sony Ten 5 HD" group-title="English;Sports" tvg-chno="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
 
-#EXTINF:-1,AMAZONPRIME-ACRIME MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136253.m3u8
-#EXTINF:-1,AMAZONPRIME-ACTION MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136254.m3u8
-#EXTINF:-1,AMAZONPRIME-ADVENTURE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136255.m3u8
-#EXTINF:-1,AMAZONPRIME-BIOGRAPHY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136256.m3u8
-#EXTINF:-1,AMAZONPRIME-COMEDY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136257.m3u8
-#EXTINF:-1,AMAZONPRIME-DOCUMENTARY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136258.m3u8
-#EXTINF:-1,AMAZONPRIME-THRILLER MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136259.m3u8
-#EXTINF:-1,AMAZONPRIME-ROMANCE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136260.m3u8
-#EXTINF:-1,AMAZONPRIME-MUSICAL MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136261.m3u8
-#EXTINF:-1,AMAZONPRIME-FANTASY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136263.m3u8
-#EXTINF:-1,AMAZONPRIME-SCI FI MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136264.m3u8
-#EXTINF:-1,AMAZONPRIME-MYSTERY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136265.m3u8
-#EXTINF:-1,AMAZONPRIME-DRAMA MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136266.m3u8
-#EXTINF:-1,NETFLIX-HORROR MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136283.m3u8
-#EXTINF:-1,NETFLIX-FANTASY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136284.m3u8
-#EXTINF:-1,NETFLIX-DOCUMENTARY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136285.m3u8
-#EXTINF:-1,NETFLIX-ACTION MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136286.m3u8
-#EXTINF:-1,NETFLIX-BIOGRAPHY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136287.m3u8
-#EXTINF:-1,NETFLIX-ANIMATION MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136288.m3u8
-#EXTINF:-1,NETFLIX-ADVENTURE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136289.m3u8
-#EXTINF:-1,NETFLIX-ACTION COMEDY MOVIED HD
-http://starshare.live:8080/live/203837773/0293938883/136290.m3u8
-#EXTINF:-1,NETFLIX-ACTION ADVENTURE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136291.m3u8
-#EXTINF:-1,NETFLIX-ACTION-CRIME MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136292.m3u8
-#EXTINF:-1,NETFLIX-SPORT MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136293.m3u8
-#EXTINF:-1,NETFLIX-THRILLER HORROR MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136294.m3u8
-#EXTINF:-1,NETFLIX-ROMANCE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136295.m3u8
-#EXTINF:-1,NETFLIX-CRIME MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136296.m3u8
-#EXTINF:-1,NETFLIX-COMEDY MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136297.m3u8
-#EXTINF:-1,NETFLIX-COMEDY ROMANCE MOVIES HD
-http://starshare.live:8080/live/203837773/0293938883/136298.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRI: STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="CRICKET",CRI: STAR SPORTS 2 HD
+http://starshare.live:8080/live/37282146482/37282146482/239.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRI: STAR SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="CRICKET",CRI: STAR SPORTS 3
+http://starshare.live:8080/live/37282146482/37282146482/1080.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="CRICKET",CRI: STAR SPORTS SELECT 1 HD
+http://starshare.live:8080/live/37282146482/37282146482/238.ts
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRI: STAR SPORTS SELECT 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="CRICKET",CRI: STAR SPORTS SELECT 2 HD
+http://starshare.live:8080/live/37282146482/37282146482/200.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRI: STAR SPORTS HINDI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="CRICKET",CRI: STAR SPORTS HINDI HD
+http://starshare.live:8080/live/37282146482/37282146482/211.ts
 
 
-#EXTINF:-1,UK: Sony TV FHD
-http://starshare.live:8080/live/203837773/0293938883/24580.m3u8
-#EXTINF:-1,UK: Colors FHD
-http://starshare.live:8080/live/203837773/0293938883/24581.m3u8
-#EXTINF:-1,UK: Sony Max FHD
-http://starshare.live:8080/live/203837773/0293938883/24582.m3u8
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi;Entertainment",Star Bharat 5.1
-http://180.178.188.152:8000/play/a010
+
+#EXTINF:0 tvg-id="1918" tvg-name="Jio Cricket English HD" group-title="Hindi;Sports" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",Jio Cricket English HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1918
+
+
